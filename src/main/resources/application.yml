@@ -9,7 +9,7 @@ graphql:
     corsEnabled: true
 
 # These are the default settings
-# GraphiQL is available under http://localhost:8080/graphiql
+# GraphiQL is available under http://localhost:8081/graphiql
 graphiql:
   mapping: graphiql
   endpoint: /graphql
